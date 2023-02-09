@@ -1,4 +1,3 @@
-### Seja bem-vindo! Me chamo Samuel Bozza de Moraes, tenho 21 anos e atualmente moro em Limeira-SP.
 ### Welcome! My name is Samuel Bozza de Moraes, i've 21 years and currently living in Limeira-SP.
 ##
 
@@ -7,7 +6,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551996106846)
 ## 
 
-### Idiomas
 ### Languages
 ##
 
@@ -17,7 +15,6 @@ EN-US
 
 ##
 
-### Linguagem de programação que ja tenho conhecimento ou que estou aprendendo.
 ### Programming languages I already know or am learning
 ##
 
@@ -36,7 +33,6 @@ EN-US
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ##
 
-### Conhecimento também em:
 ### Knowledge also in:
 ##
 
