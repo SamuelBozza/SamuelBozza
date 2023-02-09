@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SamuelBozza/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋! My name is Samuel Bozza, i have 21 years and i'm from São Paulo, Brazil.</h1>
 
 ###
