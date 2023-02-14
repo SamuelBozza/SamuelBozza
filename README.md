@@ -1,5 +1,5 @@
 <h1 align="center">Download my PDF: https://drive.google.com/uc?id=1CFxE4ryawLndDHEB4N-NDQU7cksiab5m&export=download</h1>
-<h1 align="center">Hi 👋! My name is Samuel Bozza, i have 21 years and i'm from Limeira-São Paulo, Brazil.</h1>
+<h1 align="center">Hi 👋! My name is Samuel Bozza, i have 21 years and i'm from São Paulo, Brazil.</h1>
 
 ###
 
@@ -31,6 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 </div>
 
 ###
