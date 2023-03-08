@@ -54,15 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  />
 </div>
-
-###
-
-<h2 align="center">Statistics:</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/SGAh7OmkAtJHQvtzb8/giphy.gif"  />
-</div>
-
-###
