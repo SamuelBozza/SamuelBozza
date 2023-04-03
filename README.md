@@ -1,4 +1,4 @@
-<h1 align="center">DOWNLOAD MY PROFESSIONAL RESUME BY CLICKING HERE => [https://drive.google.com/uc?id=1CFxE4ryawLndDHEB4N-NDQU7cksiab5m&export=download](https://drive.google.com/file/d/1wMNfihHhEWp8jGTi6NAz9OD_RUgx0bQD/view?usp=sharing)</h1>
+<h1 align="center">DOWNLOAD MY PROFESSIONAL RESUME BY CLICKING HERE => https://drive.google.com/file/d/1wMNfihHhEWp8jGTi6NAz9OD_RUgx0bQD/view?usp=sharing </h1>
 
 ###
 
