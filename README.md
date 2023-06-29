@@ -25,7 +25,6 @@
 ###
 
 <h1 align="center">Hi 👋! My name is Samuel Bozza, i have 21 years and i'm from São Paulo, Brazil.</h1>
-<h1 align="center">Download my professional resume here -> https://drive.google.com/file/d/1bRyeCmbkG3FN-Umr4xHh6FGUCNWtq2gY/view </h1>
 
 ###
 
@@ -72,7 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamuelBozza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelBozza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
