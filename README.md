@@ -26,6 +26,8 @@
 
 <h1 align="center">Hi 👋! My name is Samuel Bozza, i have 21 years and i'm from São Paulo, Brazil.</h1>
 
+<h1 align="center">PDF CV > drive.google.com/file/d/1bRyeCmbkG3FN-Umr4xHh6FGUCNWtq2gY/view </h1>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
