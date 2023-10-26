@@ -28,7 +28,7 @@
 
 ###
 
-<h1>PDF CV > drive.google.com/file/d/1bRyeCmbkG3FN-Umr4xHh6FGUCNWtq2gY/view</h1>
+<h1 align="center">PDF CV > drive.google.com/file/d/1bRyeCmbkG3FN-Umr4xHh6FGUCNWtq2gY/view</h1>
 
 ###
 
