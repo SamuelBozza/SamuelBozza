@@ -30,6 +30,9 @@
 
 <h1 align="center">PDF CV > drive.google.com/file/d/1bRyeCmbkG3FN-Umr4xHh6FGUCNWtq2gY/view</h1>
 
+[Currículo A4 simples preto.pdf](https://github.com/SamuelBozza/SamuelBozza/files/13319249/Curriculo.A4.simples.preto.pdf)
+
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
