@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="center">PDF CV > [Currículo A4 simples preto.pdf](https://github.com/SamuelBozza/SamuelBozza/files/13319249/Curriculo.A4.simples.preto.pdf) </h1>
+<h1 align="center">PDF CV > (https://github.com/SamuelBozza/SamuelBozza/files/13319249/Curriculo.A4.simples.preto.pdf) </h1>
 
 ###
 
