@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">PDF CV > (https://github.com/SamuelBozza/SamuelBozza/files/14053373/Samuel_Bozza_-_Desenvolvedor_Fullstack_Junior.7.179.pdf) </h1>
+<h1 align="center">PDF CV > https://github.com/SamuelBozza/SamuelBozza/files/14053373/Samuel_Bozza_-_Desenvolvedor_Fullstack_Junior.7.179.pdf </h1>
 
 
 ###
