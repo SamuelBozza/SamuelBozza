@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">PDF CV > https://drive.google.com/file/d/1LleMf0J1cFd-ggYwsWNdcX1CMWKV_L6y/view?usp=sharing </h1>
+<h1 align="center">PDF > https://drive.google.com/file/d/1LleMf0J1cFd-ggYwsWNdcX1CMWKV_L6y/view?usp=sharing </h1>
 
 
 ###
